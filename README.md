@@ -11,7 +11,7 @@ To run the application, type "java Sparse <name_of_your_input_file> <name_of_you
 If any of the command line arguments are omitted, the application will not run.  
 The application will direct all output to the outputfile, i.e., command line arg 1.  
 Once application has completed running, check the output file for your output.  
-The top level file will simply demonstrate the capabilities of the Matrix class on the two matrices you provide, let's call them A and B by:  
+The top level file (Sparse.java) will simply demonstrate the capabilities of the Matrix class on the two matrices you provide, (let's call them A and B), by:  
 -Listing the number of non-zero entries in A.  
 -Listing the number of non-zero entries in B.  
 -Multiplying matrix A by the scalar your provided as command line arg 2.  
