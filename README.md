@@ -93,7 +93,10 @@ A*B =
   
 B*B =  
 1: (1, 2.0) (2, 1.0) (3, 2.0)  
-3: (1, 2.0) (2, 1.0) (3, 2.0)  
+3: (1, 2.0) (2, 1.0) (3, 2.0) 
+  
+Please note that this application only works for square matrices of equal dimension.  
+Happy matrix manipulating!
 
 
 
