@@ -45,7 +45,7 @@ Please note that the matrices in the inputfile must be formatted as follows:
 3 2 1.0  
 3 3 1.0  
   
-The above example denotes a pair of matrices.  The first line, "3 9 5", denotes the number rows in both matrix A and matrix B,  
+The above example denotes a pair of matrices. The first line, "3 9 5", denotes the number of rows in both matrix A and matrix B,  
 the number of non-zero entries in matrix A, and the number of non-zero entries in matrix B, respectively. The second space in the  
 data (between "3 3 9.0" and "1 1 1.0") represents the split between matrix A and matrix B.  The other lines of data represent matrix entries.  
 For example, the line "1 1 1.0" denotes the value "1.0" at row 1, column 1 of matrix A.  The output will be formatted thusly:  
