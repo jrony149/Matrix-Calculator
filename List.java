@@ -3,7 +3,7 @@
 //Class: CMPS101
 //Assignment Name: pa3
 //Linked List
-//Linked List So Good Very Nice
+//Linked List So Good Very  yes
 
 @SuppressWarnings("overrides")
 
